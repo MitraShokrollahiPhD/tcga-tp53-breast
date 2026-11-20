@@ -28,7 +28,7 @@ TCGA-BRCA PanCancer Atlas (via cBioPortalData): somatic mutations, RNA-seq (RSEM
 - TP53 status is based on somatic mutation calls only (no copy number or methylation).
 - All non-silent mutations are grouped together, regardless of type.
 - Only 132 deaths, so survival power is limited.
-- Reproduces known biology; this is a learning project, not a novel finding.
+- Reproduces known biology; this is not a novel finding.
 
 ## Reproduce
 Run `analysis.R` in R. Package versions are in `results/sessionInfo.txt`.
