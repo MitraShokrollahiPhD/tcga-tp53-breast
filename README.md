@@ -1,4 +1,4 @@
-# TP53 mutation in TCGA breast cancer
+# TP53 mutation in breast cancer
 
 ## Question
 How does TP53 mutation status relate to gene expression and survival in TCGA breast cancer, after accounting for PAM50 subtype?
